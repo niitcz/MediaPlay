@@ -11,7 +11,7 @@ import android.widget.SeekBar;
 import android.widget.Toast;
 
 import java.io.IOException;
-//测试  本行无实际
+//测试  本行无
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     MediaPlayer mediaPlayer;
     Button btn_paly, btn_pause, btn_stop;
